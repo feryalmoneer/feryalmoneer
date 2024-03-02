@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋🏻 Hello My Name is Feryal Moneer<br>💻I am Studying Computer  Systems Engineering at Palestine Technical University -Khadoori<br>🌱 I’m currently learning Front- End Developer<br>👨‍💻 All of my projects are available at : https://github.com/feryalmoneer<br> 
 
-profile Hits :  [![HitCount](https://hits.dwyl.com/feryalmoneer/fm.svg?style=flat-square)](http://hits.dwyl.com/feryalmoneer/fm)
+ [![Views](https://hits.dwyl.com/feryalmoneer/fm.svg?style=flat-square)](http://hits.dwyl.com/feryalmoneer/fm)
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/feryal_moneer) 
 
